@@ -1,4 +1,4 @@
-package main
+package lessons
 
 import (
 	"fmt"
@@ -21,9 +21,10 @@ func main() {
 
 	//forTest()
 	//working()
-	pointer()
+	//pointer()
 
-	main2()
+	goroutineTest()
+	channelTest()
 
 	return
 	bazz()
